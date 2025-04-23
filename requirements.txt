@@ -1,0 +1,5 @@
+vpython
+bleak
+pyquaternion
+keyboard
+numpy
